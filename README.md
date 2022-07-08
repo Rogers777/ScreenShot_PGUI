@@ -1,4 +1,4 @@
-# ScreemShot com Pyautogui
+# ScreenShot com Pyautogui
 
 
 Código que usa a biblioteca Pyautogui para fazer um screenshot de um campo da tela, onde deve ser passadas as coordenadas (x,y) dentro do codigo 
